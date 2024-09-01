@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Mani\\TestApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55F9687D-CCB1-4D29-9B67-90B75A8927B9}|BLL\\BLL.csproj|e:\\mani\\testapp\\bll\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F9687D-CCB1-4D29-9B67-90B75A8927B9}|BLL\\BLL.csproj|solutionrelative:bll\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4294CD8E-C761-4971-BBCC-448474E96CF5}|Api\\Api.csproj|e:\\mani\\testapp\\api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4294CD8E-C761-4971-BBCC-448474E96CF5}|Api\\Api.csproj|solutionrelative:api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F9687D-CCB1-4D29-9B67-90B75A8927B9}|BLL\\BLL.csproj|e:\\mani\\testapp\\bll\\interface\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F9687D-CCB1-4D29-9B67-90B75A8927B9}|BLL\\BLL.csproj|solutionrelative:bll\\interface\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5833BB-1DE9-41B8-AF25-5C313C0E5E25}|DAL\\DAL.csproj|e:\\mani\\testapp\\dal\\interface\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5833BB-1DE9-41B8-AF25-5C313C0E5E25}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5833BB-1DE9-41B8-AF25-5C313C0E5E25}|DAL\\DAL.csproj|e:\\mani\\testapp\\dal\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5833BB-1DE9-41B8-AF25-5C313C0E5E25}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4294CD8E-C761-4971-BBCC-448474E96CF5}|Api\\Api.csproj|e:\\mani\\testapp\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4294CD8E-C761-4971-BBCC-448474E96CF5}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5833BB-1DE9-41B8-AF25-5C313C0E5E25}|DAL\\DAL.csproj|e:\\mani\\testapp\\dal\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5833BB-1DE9-41B8-AF25-5C313C0E5E25}|DAL\\DAL.csproj|solutionrelative:dal\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4294CD8E-C761-4971-BBCC-448474E96CF5}|Api\\Api.csproj|e:\\mani\\testapp\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4294CD8E-C761-4971-BBCC-448474E96CF5}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4294CD8E-C761-4971-BBCC-448474E96CF5}|Api\\Api.csproj|e:\\mani\\testapp\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4294CD8E-C761-4971-BBCC-448474E96CF5}|Api\\Api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5833BB-1DE9-41B8-AF25-5C313C0E5E25}|DAL\\DAL.csproj|e:\\mani\\testapp\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F5833BB-1DE9-41B8-AF25-5C313C0E5E25}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5833BB-1DE9-41B8-AF25-5C313C0E5E25}|DAL\\DAL.csproj|e:\\mani\\testapp\\dal\\entityconfig\\studentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5833BB-1DE9-41B8-AF25-5C313C0E5E25}|DAL\\DAL.csproj|solutionrelative:dal\\entityconfig\\studentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5833BB-1DE9-41B8-AF25-5C313C0E5E25}|DAL\\DAL.csproj|e:\\mani\\testapp\\dal\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5833BB-1DE9-41B8-AF25-5C313C0E5E25}|DAL\\DAL.csproj|solutionrelative:dal\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F9687D-CCB1-4D29-9B67-90B75A8927B9}|BLL\\BLL.csproj|e:\\mani\\testapp\\bll\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F9687D-CCB1-4D29-9B67-90B75A8927B9}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DAL",
+              "DocumentMoniker": "E:\\Mani\\TestApp\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "E:\\Mani\\TestApp\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-01T08:58:26.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentConfig.cs",
+              "DocumentMoniker": "E:\\Mani\\TestApp\\DAL\\EntityConfig\\StudentConfig.cs",
+              "RelativeDocumentMoniker": "DAL\\EntityConfig\\StudentConfig.cs",
+              "ToolTip": "E:\\Mani\\TestApp\\DAL\\EntityConfig\\StudentConfig.cs",
+              "RelativeToolTip": "DAL\\EntityConfig\\StudentConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADgvw0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T08:29:59.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Api.csproj",
+              "DocumentMoniker": "E:\\Mani\\TestApp\\Api\\Api.csproj",
+              "RelativeDocumentMoniker": "Api\\Api.csproj",
+              "ToolTip": "E:\\Mani\\TestApp\\Api\\Api.csproj",
+              "RelativeToolTip": "Api\\Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-01T08:12:13.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyDBContext.cs",
+              "DocumentMoniker": "E:\\Mani\\TestApp\\DAL\\MyDBContext.cs",
+              "RelativeDocumentMoniker": "DAL\\MyDBContext.cs",
+              "ToolTip": "E:\\Mani\\TestApp\\DAL\\MyDBContext.cs",
+              "RelativeToolTip": "DAL\\MyDBContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA9wBMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T08:06:08.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Mani\\TestApp\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "E:\\Mani\\TestApp\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAy8zMzMwEwBMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T07:54:30.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "E:\\Mani\\TestApp\\BLL\\Interface\\IStudentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Interface\\IStudentService.cs",
+              "ToolTip": "E:\\Mani\\TestApp\\BLL\\Interface\\IStudentService.cs",
+              "RelativeToolTip": "BLL\\Interface\\IStudentService.cs",
+              "ViewState": "AgIAAAUAAAAAMjMzMzMLwBAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T07:50:20.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "E:\\Mani\\TestApp\\DAL\\Interface\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\IStudentRepository.cs",
+              "ToolTip": "E:\\Mani\\TestApp\\DAL\\Interface\\IStudentRepository.cs*",
+              "RelativeToolTip": "DAL\\Interface\\IStudentRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T07:43:15.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "E:\\Mani\\TestApp\\DAL\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repository\\StudentRepository.cs",
+              "ToolTip": "E:\\Mani\\TestApp\\DAL\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "DAL\\Repository\\StudentRepository.cs",
+              "ViewState": "AgIAAB8AAAAA1MzMzMz8vygAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T06:51:55.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "E:\\Mani\\TestApp\\BLL\\Dto\\StudentDto.cs",
+              "RelativeDocumentMoniker": "BLL\\Dto\\StudentDto.cs",
+              "ToolTip": "E:\\Mani\\TestApp\\BLL\\Dto\\StudentDto.cs",
+              "RelativeToolTip": "BLL\\Dto\\StudentDto.cs",
+              "ViewState": "AgIAAAEAAAAAZmZmZmYkwAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T06:50:49.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Mani\\TestApp\\DAL\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "DAL\\Model\\Student.cs",
+              "ToolTip": "E:\\Mani\\TestApp\\DAL\\Model\\Student.cs",
+              "RelativeToolTip": "DAL\\Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T06:50:36.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "E:\\Mani\\TestApp\\BLL\\Service\\StudentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Service\\StudentService.cs",
+              "ToolTip": "E:\\Mani\\TestApp\\BLL\\Service\\StudentService.cs",
+              "RelativeToolTip": "BLL\\Service\\StudentService.cs",
+              "ViewState": "AgIAACEAAAAAODMzM7MbwC4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T06:44:20.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\Mani\\TestApp\\Api\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\Mani\\TestApp\\Api\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Api\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAB4AAACA//////8rwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T05:57:51.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Mani\\TestApp\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "E:\\Mani\\TestApp\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-01T05:55:45.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
